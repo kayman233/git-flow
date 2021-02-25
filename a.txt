@@ -1,2 +1,2 @@
 Hello world!
-I'm a new future
+I'm a new feature
